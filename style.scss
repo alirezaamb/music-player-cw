@@ -1,0 +1,49 @@
+@import './utility.scss';
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+
+  .container {
+    margin-top: 30px;
+    border-radius: 40px;
+    background-color: #000000;
+    @include flex-col();
+    padding: 33px 29px;
+
+    nav {
+      display: flex;
+      justify-content: space-between;
+      h3 {
+        color: white;
+      }
+    }
+
+    .main {
+      .music-cover {
+        img {
+          width: 100%;
+        }
+      }
+      @include flex-col();
+      .details {
+        padding: 0 41px;
+      }
+      .music-progress {
+        margin: 10px;
+        input {
+          width: 100%;
+          border-radius: 25px;
+          height: 14px;
+          accent-color: #52d7bf;
+        }
+      }
+    }
+  }
+}
