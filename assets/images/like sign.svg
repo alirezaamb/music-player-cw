@@ -1,0 +1,25 @@
+<svg width="124" height="144" viewBox="0 0 124 144" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_1_75)">
+<g opacity="0.4" filter="url(#filter1_b_1_75)">
+<circle cx="72" cy="71" r="25" fill="white" fill-opacity="0.18"/>
+</g>
+<path d="M75.7686 61.0922C77.2966 61.2064 78.733 61.8653 79.8163 62.949C80.4109 63.5431 80.8825 64.2486 81.2043 65.0251C81.5261 65.8016 81.6917 66.6339 81.6917 67.4745C81.6917 68.315 81.5261 69.1473 81.2043 69.9238C80.8825 70.7003 80.4109 71.4058 79.8163 72L72.2143 79.602C72.1194 79.6977 72.0066 79.7736 71.8822 79.8254C71.7579 79.8772 71.6245 79.9039 71.4898 79.9039C71.3551 79.9039 71.2217 79.8772 71.0974 79.8254C70.973 79.7736 70.8602 79.6977 70.7653 79.602L63.1633 72C62.0151 70.8599 61.3416 69.327 61.2784 67.7102C61.2151 66.0934 61.7668 64.5126 62.8224 63.2863C63.878 62.06 65.359 61.2791 66.9673 61.1011C68.5755 60.923 70.1915 61.3608 71.4898 62.3265C72.7222 61.416 74.2405 60.978 75.7686 61.0922Z" fill="#EB5757"/>
+</g>
+<defs>
+<filter id="filter0_d_1_75" x="0" y="0" width="144" height="144" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="23.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.16 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_75"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_75" result="shape"/>
+</filter>
+<filter id="filter1_b_1_75" x="39" y="38" width="66" height="66" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="4"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_1_75"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_1_75" result="shape"/>
+</filter>
+</defs>
+</svg>

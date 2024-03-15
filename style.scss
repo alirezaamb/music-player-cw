@@ -44,6 +44,16 @@ body {
           accent-color: #52d7bf;
         }
       }
+      .music-icons {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        .music-icons-icon {
+          background-color: #161616;
+          padding: 15px;
+          border-radius: 50%;
+        }
+      }
     }
   }
 }

@@ -117,5 +117,15 @@ body .container .main .music-progress input {
   height: 14px;
   accent-color: #52d7bf;
 }
+body .container .main .music-icons {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+body .container .main .music-icons .music-icons-icon {
+  background-color: #161616;
+  padding: 15px;
+  border-radius: 50%;
+}
 
 /*# sourceMappingURL=output.css.map */
